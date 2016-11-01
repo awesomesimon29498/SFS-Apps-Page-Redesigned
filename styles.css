@@ -19,8 +19,6 @@ img{
 }
 * {
   display:inline-block;
-}
-#imageresize{
-  height:300px;
-  width:400px;
+  margin-top:20px;
+  padding:10px 10px 10px 10px;
 }
